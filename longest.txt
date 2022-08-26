@@ -1,0 +1,5 @@
+parenthesis
+encyclopedia
+tiger
+cat
+elephant
